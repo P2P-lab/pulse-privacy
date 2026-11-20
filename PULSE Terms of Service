@@ -1,0 +1,323 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="PULSE Terms of Service governing use of the PULSE mobile game.">
+<title>PULSE – Terms of Service</title>
+<style>
+  :root {
+    --bg: #111827;
+    --panel: #1F2937;
+    --energy: #38BDF8;
+    --accent: #F472B6;
+    --warn: #FBBF24;
+    --ok: #A3E635;
+    --text: #E5E7EB;
+    --dim: #9CA3AF;
+    --border: #374151;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+
+  main {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 40px 20px 64px;
+  }
+
+  h1 {
+    font: 700 2rem/1.2 ui-monospace, Consolas, monospace;
+    letter-spacing: .08em;
+    color: var(--energy);
+    margin: 0 0 4px;
+  }
+
+  h2 {
+    font: 700 1.05rem/1.3 ui-monospace, Consolas, monospace;
+    letter-spacing: .06em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin: 36px 0 8px;
+  }
+
+  p, li { color: var(--text); }
+
+  a {
+    color: var(--energy);
+    overflow-wrap: anywhere;
+  }
+
+  a:hover { color: var(--accent); }
+
+  .meta {
+    color: var(--dim);
+    margin: 0 0 28px;
+  }
+
+  .box {
+    background: var(--panel);
+    border-left: 4px solid var(--energy);
+    padding: 14px 18px;
+    border-radius: 6px;
+  }
+
+  .note {
+    background: var(--panel);
+    border-left: 4px solid var(--warn);
+    padding: 12px 16px;
+    border-radius: 6px;
+    margin: 20px 0;
+  }
+
+  .footer {
+    border-top: 1px solid var(--border);
+    margin-top: 40px;
+    padding-top: 20px;
+    color: var(--dim);
+    font-size: .9rem;
+  }
+
+  @media (max-width: 600px) {
+    main { padding: 28px 16px 48px; }
+    h1 { font-size: 1.7rem; }
+  }
+</style>
+</head>
+
+<body>
+<main>
+
+<h1>PULSE</h1>
+<p class="meta">Terms of Service · Effective November 20, 2026 · Last Updated November 20, 2026</p>
+
+<div class="box">
+  <p><strong>In short:</strong> PULSE is provided for personal entertainment. You may play the Game under a limited license, but the game, its code, artwork, music, and branding remain the property of their respective owners. Optional purchases are processed through Google Play. Please read these Terms before using the Game.</p>
+</div>
+
+<h2>1. Introduction and Acceptance</h2>
+<p>These Terms of Service ("Terms") govern your access to and use of the PULSE mobile game ("PULSE", "the Game", "we", "us", or "our").</p>
+<p>PULSE is developed and published by <strong>[FULL LEGAL NAME / REGISTERED BUSINESS NAME]</strong>, operating under the developer name <strong>P2P</strong>.</p>
+<p>By downloading, installing, accessing, or playing PULSE, you agree to these Terms.</p>
+<p>If you do not agree to these Terms, you should stop using the Game and uninstall it.</p>
+<p>If you are under the age of legal majority in your country, you must have permission from your parent or legal guardian where required by applicable law.</p>
+
+<h2>2. Eligibility</h2>
+<p>You may use PULSE only if you are legally permitted to do so under the laws applicable to you.</p>
+<p>PULSE is not designed or directed toward children under 13.</p>
+<p>If you are below the applicable minimum age for using the Game in your jurisdiction, you may not use it without the authorization required by applicable law.</p>
+<p>Parents and legal guardians are responsible for supervising minors' use of the Game where appropriate.</p>
+
+<h2>3. License to Use the Game</h2>
+<p>Subject to these Terms, we grant you a limited, personal, non-exclusive, non-transferable, revocable license to download and use PULSE for personal, non-commercial entertainment purposes.</p>
+<p>This license does not transfer ownership of the Game or any intellectual property to you.</p>
+<p>You may not:</p>
+<ul>
+  <li>Copy, reproduce, distribute, or commercially exploit the Game without authorization.</li>
+  <li>Modify, adapt, translate, or create derivative works of the Game without permission.</li>
+  <li>Reverse engineer, decompile, or disassemble the Game except where such restrictions are prohibited by applicable law.</li>
+  <li>Extract or redistribute the Game's artwork, music, sounds, source code, animations, or other assets.</li>
+  <li>Use unauthorized tools, bots, cheats, or modifications to manipulate gameplay.</li>
+  <li>Circumvent security, purchase verification, or technical restrictions.</li>
+  <li>Use the Game in a manner that violates applicable law or the rights of others.</li>
+</ul>
+<p>Nothing in these Terms restricts rights that cannot legally be restricted under applicable law.</p>
+
+<h2>4. Intellectual Property</h2>
+<p>All intellectual property associated with PULSE belongs to us or our respective licensors.</p>
+<p>This includes, without limitation:</p>
+<ul>
+  <li>The PULSE name and branding.</li>
+  <li>Game design and mechanics.</li>
+  <li>Source code and software.</li>
+  <li>Graphics, artwork, animations, and visual effects.</li>
+  <li>Music, sound effects, and audio assets.</li>
+  <li>User interface and design elements.</li>
+  <li>Text, documentation, and other game content.</li>
+</ul>
+<p>All rights not expressly granted to you under these Terms are reserved.</p>
+<p>You may not use our intellectual property for commercial purposes without obtaining our prior written permission.</p>
+<p>Third-party trademarks, services, and products referenced in the Game remain the property of their respective owners.</p>
+
+<h2>5. Gameplay and Progress</h2>
+<p>PULSE is an entertainment game that may include endless gameplay, scores, challenges, achievements, streaks, and unlockable content.</p>
+<p>We may modify gameplay mechanics, difficulty, scoring systems, features, or progression at any time to improve the Game or maintain its functionality, subject to applicable law.</p>
+<p>Unless explicitly stated otherwise:</p>
+<ul>
+  <li>Gameplay scores and progress are stored locally on your device.</li>
+  <li>Progress may be lost if you uninstall the Game, clear its data, or change devices.</li>
+  <li>We do not guarantee permanent storage or recovery of local gameplay progress.</li>
+  <li>We do not guarantee that a particular score, ranking, streak, or achievement will remain available indefinitely.</li>
+</ul>
+<p>We are not responsible for the loss of locally stored progress resulting from device damage, operating system changes, application removal, or other circumstances outside our reasonable control.</p>
+
+<h2>6. In-App Purchases and Digital Content</h2>
+<p>PULSE may offer optional in-app purchases, including cosmetic themes, visual customization options, and advertisement-removal features.</p>
+<p>All purchases made through the Android version of PULSE are processed through Google Play Billing.</p>
+
+<h2>6.1 Purchase Authorization</h2>
+<p>By making a purchase, you authorize the applicable payment transaction through Google Play.</p>
+<p>You are responsible for ensuring that you have permission to use the payment method associated with your Google Play account.</p>
+<p>We do not directly process or store your complete payment card details.</p>
+
+<h2>6.2 Digital Items and Cosmetic Content</h2>
+<p>Purchased digital content is licensed to you for personal use within PULSE, subject to applicable law and the terms of the purchase.</p>
+<p>Unless expressly stated otherwise, digital items:</p>
+<ul>
+  <li>Have no cash value.</li>
+  <li>Cannot be exchanged for money.</li>
+  <li>Cannot be transferred or resold.</li>
+  <li>Cannot be redeemed outside the Game.</li>
+  <li>Cannot be used for commercial purposes.</li>
+</ul>
+<p>We retain ownership of all digital content and associated intellectual property.</p>
+
+<h2>6.3 Restoring Purchases</h2>
+<p>Eligible purchases may be restored through the Game's purchase restoration functionality, subject to Google Play account verification and the applicable purchase type.</p>
+<p>Some purchases may not be transferable between different platform ecosystems or accounts.</p>
+
+<h2>6.4 Refunds</h2>
+<p>Refund requests are handled according to Google Play's applicable refund procedures and applicable consumer protection laws.</p>
+<p>We do not guarantee refunds for every purchase.</p>
+<p>However, nothing in these Terms removes or limits any refund rights or consumer protections that cannot legally be excluded.</p>
+<p>If you experience a purchase problem, contact Google Play or email us at <a href="mailto:duetpotatos@gmail.com">duetpotatos@gmail.com</a>.</p>
+
+<h2>6.5 Changes to Purchases and Pricing</h2>
+<p>We may introduce, modify, or discontinue digital products and their pricing.</p>
+<p>Changes will not remove rights that you have already acquired under applicable consumer protection laws.</p>
+<p>Where a change materially affects an existing purchase or entitlement, we will handle it in accordance with applicable law.</p>
+
+<h2>7. Advertisements</h2>
+<p>PULSE may offer optional rewarded advertisements.</p>
+<p>You are not required to watch advertisements to use the basic gameplay functionality unless a particular optional feature clearly indicates otherwise.</p>
+<p>Advertisements are provided by third-party advertising services.</p>
+<p>We do not own or control all advertisements displayed through those services and are not responsible for the independent content, products, services, or websites advertised by third parties.</p>
+<p>The inclusion of an advertisement does not constitute our endorsement of the advertised product or service.</p>
+<p>Advertising availability may vary by country, device, network connection, and advertising provider.</p>
+
+<h2>8. Acceptable Use</h2>
+<p>You agree not to:</p>
+<ul>
+  <li>Cheat, exploit, or manipulate the Game.</li>
+  <li>Interfere with the Game's normal operation.</li>
+  <li>Attempt to access unauthorized systems or data.</li>
+  <li>Use automated tools to manipulate game functionality.</li>
+  <li>Circumvent purchase verification or advertising restrictions.</li>
+  <li>Distribute malware or harmful software through interactions associated with the Game.</li>
+  <li>Use the Game for unlawful purposes.</li>
+  <li>Violate the intellectual property rights of others.</li>
+</ul>
+<p>We may take reasonable action to protect PULSE, its users, and its technical infrastructure against abuse.</p>
+
+<h2>9. Updates and Availability</h2>
+<p>We may release updates, patches, improvements, or changes to PULSE.</p>
+<p>Some updates may be necessary to maintain compatibility, security, or functionality.</p>
+<p>We do not guarantee that:</p>
+<ul>
+  <li>PULSE will always be available without interruption.</li>
+  <li>Every feature will remain available indefinitely.</li>
+  <li>The Game will be compatible with every device or operating system.</li>
+  <li>All errors or defects will be corrected immediately.</li>
+</ul>
+<p>We may temporarily suspend access to certain features for maintenance, security, technical, or operational reasons.</p>
+
+<h2>10. Termination and Suspension</h2>
+<p>We reserve the right to restrict or terminate access to PULSE if:</p>
+<ul>
+  <li>You materially violate these Terms.</li>
+  <li>You engage in fraudulent or abusive conduct.</li>
+  <li>You attempt to compromise the Game or its infrastructure.</li>
+  <li>We are required to do so by law.</li>
+  <li>Continued operation of the Game or a particular feature becomes impractical or unlawful.</li>
+</ul>
+<p>Where reasonably possible, we will take proportionate action and provide notice when appropriate.</p>
+<p>You may stop using PULSE at any time by uninstalling the Game.</p>
+<p>Termination does not automatically eliminate rights or obligations that accrued before termination. Any statutory rights relating to purchased digital content remain unaffected.</p>
+
+<h2>11. Third-Party Services</h2>
+<p>PULSE may rely on third-party services, including:</p>
+<ul>
+  <li>Google Play.</li>
+  <li>Unity Technologies.</li>
+  <li>Unity Analytics.</li>
+  <li>Unity LevelPlay.</li>
+  <li>Unity Ads.</li>
+  <li>Unity In-App Purchasing.</li>
+</ul>
+<p>These services may be governed by their own terms and policies.</p>
+<p>Your use of Google Play and purchases made through Google Play are also subject to Google's applicable terms and policies.</p>
+<p>We are not responsible for the independent operation or policies of third-party services.</p>
+
+<h2>12. Privacy</h2>
+<p>Your use of PULSE is also governed by our Privacy Policy.</p>
+<p>Our Privacy Policy explains what information may be processed, how third-party services are used, and the privacy choices available to you.</p>
+<p><strong>Privacy Policy:</strong> <a href="[INSERT_PRIVACY_POLICY_URL]">Read the PULSE Privacy Policy</a></p>
+<p>Where applicable law requires consent for personal data processing, that consent will be obtained separately.</p>
+
+<h2>13. Disclaimer of Warranties</h2>
+<p>To the maximum extent permitted by applicable law, PULSE is provided on an "as available" and "as is" basis.</p>
+<p>We do not guarantee that the Game will always be uninterrupted, error-free, compatible with every device, or free from technical defects.</p>
+<p>We disclaim implied warranties only to the extent that such disclaimers are legally permitted.</p>
+<p>Nothing in these Terms excludes or limits warranties, guarantees, or consumer rights that cannot legally be excluded under applicable law.</p>
+
+<h2>14. Limitation of Liability</h2>
+<p>To the maximum extent permitted by applicable law, we will not be liable for indirect, incidental, special, punitive, or consequential damages arising from your use of or inability to use PULSE.</p>
+<p>This may include, where legally permitted, loss of profits, loss of data, loss of gameplay progress, or business interruption.</p>
+<p>To the maximum extent permitted by law, our total liability arising from your use of PULSE will be limited to the greater of:</p>
+<ol>
+  <li>The amount you paid directly to us for PULSE during the twelve months preceding the event giving rise to the claim; or</li>
+  <li>USD $10.</li>
+</ol>
+<p>This limitation does not apply where liability cannot legally be limited, including applicable consumer protection rights, fraud, intentional misconduct, or liability for death or personal injury caused by negligence where such liability cannot be excluded.</p>
+<p>Nothing in these Terms limits any non-waivable statutory rights you may have.</p>
+
+<h2>15. Indemnification</h2>
+<p>To the extent permitted by applicable law, you agree to be responsible for losses, claims, or reasonable expenses arising directly from your unlawful use of PULSE, your material violation of these Terms, or your infringement of another person's rights.</p>
+<p>This section does not require you to indemnify us for losses caused by our own unlawful conduct or where such an obligation is prohibited by law.</p>
+
+<h2>16. Changes to These Terms</h2>
+<p>We may update these Terms from time to time to reflect changes in the Game, our services, legal requirements, or business operations.</p>
+<p>Updated Terms will be published on our official Terms of Service webpage with a revised effective date.</p>
+<p>If a change materially affects your rights, we will provide additional notice where required by applicable law.</p>
+<p>Your continued use of PULSE after an update does not override any consent or notice requirements imposed by applicable law.</p>
+
+<h2>17. Governing Law and Disputes</h2>
+<p>These Terms are governed by the laws of <strong>[INSERT YOUR COUNTRY AND STATE/PROVINCE]</strong>, without regard to conflict-of-law principles, except where mandatory consumer protection laws require otherwise.</p>
+<p>Any dispute arising from these Terms or your use of PULSE will be handled by the courts or other dispute-resolution bodies with jurisdiction under applicable law.</p>
+<p>Nothing in this section removes your right to bring a claim in a court that has mandatory jurisdiction over your consumer dispute.</p>
+
+<h2>18. Severability</h2>
+<p>If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions will continue in effect to the extent permitted by law.</p>
+<p>The invalid provision will be interpreted or replaced to the minimum extent necessary to make it enforceable, where legally permitted.</p>
+
+<h2>19. Entire Agreement</h2>
+<p>These Terms, together with the Privacy Policy and any applicable third-party terms, constitute the agreement governing your use of PULSE.</p>
+<p>They replace any previous versions of these Terms relating to the same subject matter.</p>
+
+<h2>20. Contact Information</h2>
+<p>For questions, technical support, purchase issues, or concerns regarding these Terms:</p>
+<ul>
+  <li><strong>Developer:</strong> [FULL LEGAL NAME / REGISTERED BUSINESS NAME]</li>
+  <li><strong>Developer Name:</strong> P2P</li>
+  <li><strong>Game:</strong> PULSE</li>
+  <li><strong>Email:</strong> <a href="mailto:duetpotatos@gmail.com">duetpotatos@gmail.com</a></li>
+</ul>
+<p>We aim to respond to reasonable support requests as soon as practicable.</p>
+
+<div class="footer">
+  <p>P2P · PULSE · Terms of Service</p>
+  <p>Thank you for playing PULSE!</p>
+</div>
+
+</main>
+</body>
+</html>
+```
